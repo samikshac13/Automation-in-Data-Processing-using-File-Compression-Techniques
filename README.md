@@ -53,6 +53,7 @@ University of Mumbai, Sindhudurg Sub Campus
 📧 samikshachavan1310@gmail.com
 
 🔗 LinkedIn (https://www.linkedin.com/in/samiksha-chavan-74031b375)
+
 ## ⚠️ Disclaimer
 This repository includes a demonstration of the core functionalities of the AI-powered file compression system developed as part of an academic research project. Due to institutional privacy and academic submission guidelines, the full implementation code and certain modules (e.g., the complete AI model and cloud automation scripts) are not publicly available.
 
