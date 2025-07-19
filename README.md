@@ -39,6 +39,7 @@ Application screenshots and flow diagrams are included in the repository.
 - Journal: IRJMETS – International Research Journal of Modernization in Engineering Technology and Science
 - Volume: 07, Issue 06, June 2025
 - DOI: https://www.doi.org/10.56726/IRJMETS80336
+- https://www.irjmets.com/upload_newfiles/irjmets70600196344/paper_file/irjmets70600196344.pdf
 - PDF: Included in the repository as Published_Research_Paper.pdf
 
 ## 👩‍💻 Author
