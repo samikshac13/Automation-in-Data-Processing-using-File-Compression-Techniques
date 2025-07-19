@@ -17,8 +17,6 @@ The system comprises the following modules:
 - Performance Tracker: Monitors CPU/RAM usage, compression speed, and success ratio
 - GUI Layer: Multi-frame interface using Tkinter with compression stats visualization
 
-Architecture and process flow diagrams are included as System_Architecture.png and Process_Flow.png in the repository.
-
 ## 🔁 Application Flow
 Step-by-Step Flow:
 - Launch GUI and select file/folder
